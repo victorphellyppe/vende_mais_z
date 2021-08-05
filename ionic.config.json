@@ -1,5 +1,7 @@
 {
   "name": "Vende mais Z",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
